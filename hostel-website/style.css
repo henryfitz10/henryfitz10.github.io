@@ -68,7 +68,7 @@ h2{
 footer {
 	margin-top: 10px;
 	background-color: #333;
-	height: 100px;
+	height: 120px;
 	display: clear both;
 	border-radius: 7px;
 }
@@ -127,4 +127,12 @@ img {
     text-align: right;
     float: right;
 }
+footer a {
+	color: #ffbf00;
+}
+footer a:hover {
+	color: #98b700;
+}
+#phone{
+	color: #98b700;
 }
