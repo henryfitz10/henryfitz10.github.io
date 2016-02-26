@@ -1,0 +1,19 @@
+#subbtn {
+	color: #ff0022;
+	
+	border-radius: 0px;
+}
+.form-group {
+	
+	
+}
+.form-inline {
+	
+	border-radius: 25px;
+}
+.navbar {
+	background-color: #ffcc00;
+	border: #ffcc00;
+	height: 120px;
+	width: 100%;
+}
