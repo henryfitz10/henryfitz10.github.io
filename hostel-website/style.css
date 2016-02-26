@@ -114,3 +114,17 @@ img {
 	padding-left: 0px;
 	padding-right: 0px;
 }
+
+.room_cost {
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    float: right;
+}
+.room_local_cost {
+	display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    float: right;
+}
+}
